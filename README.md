@@ -1,7 +1,7 @@
 <br />
 <p align="center">
-  <a href="https://github.com/github_Abhayparashar/Wikipedia-article-summrization">
-    <img src="static/img/profile.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/github_Abhayparashar/message_sender_gui">
+    <img src="profile.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">✉ Message Sender Using python</h3>
