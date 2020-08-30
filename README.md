@@ -22,8 +22,9 @@
 
 ## Design
   <a href="https://github.com/github_Abhayparashar/message_sender_gui">
-    <img src="gui.png" alt="Logo" width="80" height="80">
+    <img src="gui.png" alt="Logo" width="400" height="400">
   </a>
+  
 ## Contributers
 
 Abhayparashar31
